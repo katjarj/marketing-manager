@@ -1,6 +1,10 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
   "/api/auth/logout/route": "app/api/auth/logout/route.js",
-  "/login/page": "app/login/page.js",
   "/api/auth/login/route": "app/api/auth/login/route.js",
-  "/(protected)/page": "app/(protected)/page.js"
+  "/login/page": "app/login/page.js",
+  "/(protected)/requests/new/page": "app/(protected)/requests/new/page.js",
+  "/(protected)/requests/[id]/page": "app/(protected)/requests/[id]/page.js",
+  "/(protected)/page": "app/(protected)/page.js",
+  "/(protected)/requests/page": "app/(protected)/requests/page.js"
 }
