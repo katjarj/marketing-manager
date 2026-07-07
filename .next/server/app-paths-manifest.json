@@ -1,5 +1,6 @@
 {
-  "/requests/page": "app/requests/page.js",
-  "/page": "app/page.js",
-  "/requests/[id]/page": "app/requests/[id]/page.js"
+  "/(protected)/api/auth/logout/route": "app/(protected)/api/auth/logout/route.js",
+  "/(protected)/api/auth/login/route": "app/(protected)/api/auth/login/route.js",
+  "/(protected)/page": "app/(protected)/page.js",
+  "/login/page": "app/login/page.js"
 }
