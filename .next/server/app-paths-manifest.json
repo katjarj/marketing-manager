@@ -1,4 +1,6 @@
 {
-  "/(protected)/requests/page": "app/(protected)/requests/page.js",
+  "/login/page": "app/login/page.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/(protected)/requests/new/page": "app/(protected)/requests/new/page.js",
   "/(protected)/page": "app/(protected)/page.js"
 }
